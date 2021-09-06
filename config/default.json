@@ -1,0 +1,20 @@
+{
+    "db-connections":{
+        "mongodb":{
+            "host":"cluster0.uniou.mongodb.net",
+            "user":"rest-api-users",
+            "password":"0gEkrGaYX50t7pbZ",
+            "dbname":"AcademicDB"
+        }
+    },
+    "secretkeys":{
+        "cryptojs" : "jsA5t2@tfhD",
+        "jwt": "awasawdawdttulyrhppeofonvaehfoqi@asduhaodufh52810510201"
+    },
+    "roles":{
+        "student": 1,
+        "teacher": 2
+    },
+    "server-port": 3000,
+    "sessionTime": 3600
+}

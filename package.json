@@ -1,0 +1,26 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "aplicación para crud",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crud",
+    "api",
+    "rest",
+    "test",
+    "homework"
+  ],
+  "author": "Juan Díaz",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.6",
+    "crypto-js": "^4.1.1",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.3",
+    "mongoose-unique-validator": "^2.0.3"
+  }
+}
